@@ -1,0 +1,22 @@
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\StarshipTraveller.Form1.resources
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\StarshipTraveller.Resources.resources
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\bin\Debug\StarshipTraveller.exe
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\bin\Debug\StarshipTraveller.pdb
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\bin\Debug\StarshipTraveller.xml
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\StarshipTraveller.exe
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\StarshipTraveller.xml
+C:\Users\Kristin\AppData\Local\Temporary Projects\StarshipTraveller\obj\x86\Debug\StarshipTraveller.pdb
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\StarshipTraveller.exe
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\StarshipTraveller.xml
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\StarshipTraveller.pdb
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\bin\Debug\StarshipTraveller.exe
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\bin\Debug\StarshipTraveller.pdb
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\bin\Debug\StarshipTraveller.xml
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\StarshipTraveller.Form1.resources
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\StarshipTraveller.Resources.resources
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kristin\documents\visual studio 2010\Projects\StarshipTraveller\StarshipTraveller\obj\x86\Debug\GenerateResource.write.1.tlog
